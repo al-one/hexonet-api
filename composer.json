@@ -1,0 +1,22 @@
+{
+    "name": "al-one/hexonet-api",
+    "description": "Hexonet Domain Reseller API",
+    "keywords": ["hexonet", "ispapi", "1api"],
+    "authors": [
+        {
+            "name": "Alone",
+            "email": "hi@anlo.ng"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Alone\\Hexonet\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
