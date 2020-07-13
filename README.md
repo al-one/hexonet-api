@@ -36,3 +36,7 @@ $hash2 = $ret->getHashLower();
 ## Documentation
 
 - [Domain API](https://www.hexonet.net/sites/default/files/downloads/DOMAIN_API_Reference.pdf)
+
+## Link
+
+- [Official SDK - hexonet/php-sdk](https://github.com/hexonet/php-sdk)
